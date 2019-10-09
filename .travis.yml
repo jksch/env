@@ -1,7 +1,8 @@
 language: go
 sudo: false
 go:
-- 1.13.1  
+- 1.13.1
+- tip
 before_script:
   - go get github.com/golangci/golangci-lint/cmd/golangci-lint
   - go get golang.org/x/tools/cmd/cover
