@@ -1,5 +1,6 @@
 # Env
 [![Build Status](https://travis-ci.org/jksch/env.svg?branch=master)](https://travis-ci.org/jksch/env)
+[![Coverage Status](https://coveralls.io/repos/github/jksch/env/badge.svg?branch=master)](https://coveralls.io/github/jksch/env?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jksch/env)](https://goreportcard.com/report/github.com/jksch/env)
 [![GoDoc](https://godoc.org/github.com/jksch/env?status.svg)](https://godoc.org/github.com/jksch/env)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/jksch/env/blob/master/LICENSE)
